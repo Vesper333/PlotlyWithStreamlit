@@ -59,8 +59,9 @@ The intuitive interface ensures that both data enthusiasts and professionals can
 ![localhost_8501__2024_12_22_12_28_34](https://github.com/user-attachments/assets/6cd35159-032a-4328-ac87-75e63d4efc4d)
 
 ---
-
-
+## 📊 **Access the browser app**
+- **Here is the link of browser app running on streamlit app **
+- https://vesper333-plotlywithstreamlit-app-pialjn.streamlit.app/
 
 
 
