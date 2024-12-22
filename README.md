@@ -54,9 +54,13 @@ The intuitive interface ensures that both data enthusiasts and professionals can
 - **Literacy Rate **
 
 ---
+![localhost_8501__2024_12_22_12_28_51](https://github.com/user-attachments/assets/0eaebdab-334c-4a37-b500-654884f469c7)
 
+![localhost_8501__2024_12_22_12_28_34](https://github.com/user-attachments/assets/6cd35159-032a-4328-ac87-75e63d4efc4d)
 
 ---
+
+
 
 
 
